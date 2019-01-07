@@ -1,0 +1,13 @@
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\data.txt
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe.config
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.pdb
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csprojAssemblyReference.cache
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csproj.CoreCompileInputs.cache
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.exe
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.pdb
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerGameResults.csv
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\players.json
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeni\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csproj.CopyComplete
